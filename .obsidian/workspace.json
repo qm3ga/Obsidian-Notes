@@ -11,10 +11,14 @@
             "id": "921d38f169477f58",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TestCommit.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TestCommit"
             }
           }
         ]
@@ -187,8 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "760fdb14f636d249",
+  "active": "921d38f169477f58",
   "lastOpenFiles": [
+    "TestCommit.md",
+    "someshit",
     "Someshit.md"
   ]
 }
