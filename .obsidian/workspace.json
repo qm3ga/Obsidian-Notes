@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3f6c600198879bba",
+        "id": "d143b9081f4e6ed2",
         "type": "tabs",
         "children": [
           {
-            "id": "7c049e315dca4093",
+            "id": "921d38f169477f58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Someshit.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Someshit"
+              "title": "New tab"
             }
           }
         ]
@@ -34,16 +30,6 @@
         "id": "df7ff7ffa515f8c4",
         "type": "tabs",
         "children": [
-          {
-            "id": "98a409d4fcd759da",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
           {
             "id": "760fdb14f636d249",
             "type": "leaf",
@@ -187,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98a409d4fcd759da",
+  "active": "760fdb14f636d249",
   "lastOpenFiles": [
     "Someshit.md"
   ]
