@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bla bla bla.md",
+                "file": "Someshit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bla bla bla"
+              "title": "Someshit"
             }
           }
         ]
@@ -203,6 +203,6 @@
   },
   "active": "98a409d4fcd759da",
   "lastOpenFiles": [
-    "bla bla bla.md"
+    "Someshit.md"
   ]
 }
