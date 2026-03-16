@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parts/Онлайн портфолио.md",
+                "file": "Ознакомительная практика/UX-анализ/Parts/Онлайн портфолио.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parts/Онлайн портфолио.md",
+                "file": "Ознакомительная практика/UX-анализ/Parts/Онлайн портфолио.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parts/Аналоги/Behance.md",
+                "file": "Ознакомительная практика/UX-анализ/Parts/Аналоги/Behance.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parts/Аналоги/Dribbble.md",
+                "file": "Ознакомительная практика/UX-анализ/Parts/Аналоги/Dribbble.md",
                 "mode": "source",
                 "source": false
               },
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parts/Аналоги/Dribbble.md",
+                "file": "Ознакомительная практика/UX-анализ/Parts/Аналоги/Dribbble.md",
                 "mode": "source",
                 "source": false
               },
@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parts/Аналоги/HSE University Art And Design.md",
+                "file": "Ознакомительная практика/UX-анализ/Parts/Аналоги/HSE University Art And Design.md",
                 "mode": "source",
                 "source": false
               },
@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parts/Аналоги/HSE University Art And Design.md",
+                "file": "Ознакомительная практика/UX-анализ/Parts/Аналоги/HSE University Art And Design.md",
                 "mode": "source",
                 "source": false
               },
@@ -304,21 +304,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a25a04eaa75b46e",
+  "active": "760fdb14f636d249",
   "lastOpenFiles": [
-    "Parts/Аналоги/Dribbble.md",
-    "Parts/Аналоги/Behance.md",
-    "Parts/Аналоги/Artstation.md",
-    "Parts/Онлайн портфолио.md",
-    "Scrap from gpt/Анализ аналогов.md",
-    "Scrap from gpt",
-    "Scrap from gpt/Задачи онлайн-портфолио.md",
-    "Scrap from gpt/Анализ для практики.md",
-    "Parts/Аналоги/HSE University Art And Design.md",
-    "Parts/Аналоги",
-    "Parts",
+    "Ознакомительная практика/UX-анализ",
+    "Ознакомительная практика",
+    "Ознакомительная практика/UX-анализ/Parts/Аналоги/Dribbble.md",
+    "Ознакомительная практика/UX-анализ/Parts/Аналоги/Behance.md",
+    "Ознакомительная практика/UX-анализ/Parts/Аналоги/Artstation.md",
+    "Ознакомительная практика/UX-анализ/Parts/Онлайн портфолио.md",
+    "Ознакомительная практика/UX-анализ/Scrap from gpt/Анализ аналогов.md",
+    "Ознакомительная практика/UX-анализ/Scrap from gpt",
+    "Ознакомительная практика/UX-анализ/Scrap from gpt/Задачи онлайн-портфолио.md",
+    "Ознакомительная практика/UX-анализ/Scrap from gpt/Анализ для практики.md",
+    "Ознакомительная практика/UX-анализ/Parts/Аналоги/HSE University Art And Design.md",
+    "Ознакомительная практика/UX-анализ/Parts/Аналоги",
+    "Ознакомительная практика/UX-анализ/Parts",
     "TestCommit.md",
-    "Scrap from gpt/Онлайн портфолио (с gpt).md",
+    "Ознакомительная практика/UX-анализ/Scrap from gpt/Онлайн портфолио (с gpt).md",
     "Требования для онлайн портфолио.md",
     "someshit",
     "Someshit.md"
