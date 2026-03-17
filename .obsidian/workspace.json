@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ознакомительная практика/UX-анализ/Parts/Аналоги/Структура/Artstation.md",
+                "file": "Ознакомительная практика/UX-анализ/Parts/Аналоги/Дизайн/Dribbble.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Artstation"
+              "title": "Dribbble"
             }
           }
         ],
@@ -304,10 +304,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "760fdb14f636d249",
+  "active": "0a25a04eaa75b46e",
   "lastOpenFiles": [
+    "Ознакомительная практика/UX-анализ/Parts/Аналоги/Дизайн/Behance.md",
+    "Ознакомительная практика/UX-анализ/Parts/Аналоги/Дизайн/Artstation.md",
+    "Ознакомительная практика/UX-анализ/Parts/Аналоги/Дизайн/Dribbble.md",
     "Ознакомительная практика/UX-анализ/Parts/Аналоги/Структура/Behance.md",
     "Ознакомительная практика/UX-анализ/Parts/Аналоги/Структура/Artstation.md",
+    "Ознакомительная практика/UX-анализ/Parts/Аналоги/Дизайн/Untitled",
+    "Ознакомительная практика/UX-анализ/Parts/Аналоги/Дизайн",
     "Ознакомительная практика/UX-анализ/Parts/Аналоги/Структура/HSE University Art And Design.md",
     "Ознакомительная практика/UX-анализ/Parts/Аналоги/Структура",
     "Ознакомительная практика/UX-анализ",
