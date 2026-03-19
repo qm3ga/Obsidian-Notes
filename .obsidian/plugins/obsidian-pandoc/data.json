@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "/usr/local/bin/pandoc",
+  "pdflatex": null,
+  "outputFolder": null,
+  "extraArguments": "--reference-doc=/Users/qm3ga/Downloads/reference.docx\n",
+  "exportFrom": "html"
+}
