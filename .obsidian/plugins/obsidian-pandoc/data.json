@@ -10,6 +10,6 @@
   "pandoc": "/usr/local/bin/pandoc",
   "pdflatex": null,
   "outputFolder": null,
-  "extraArguments": "--reference-doc=/Users/qm3ga/Downloads/reference.docx\n",
+  "extraArguments": "--reference-doc=~\\Downloads\\Telegram Desktop\\reference.docx",
   "exportFrom": "html"
 }
