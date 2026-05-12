@@ -25,14 +25,14 @@
             "id": "df8e5bd230856a6b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Group 1.md",
-                "bFile": "Group 1.md",
-                "aRef": ""
+                "file": "possible pallets.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Group 1  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "possible pallets"
             }
           }
         ],
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "possible pallets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for possible pallets"
             }
           },
           {
@@ -127,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "possible pallets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from possible pallets"
             }
           },
           {
@@ -169,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "possible pallets.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of possible pallets"
             }
           },
           {
@@ -192,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 772.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,12 +210,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d25148fd7f279ff",
+  "active": "df8e5bd230856a6b",
   "lastOpenFiles": [
+    "Ознакомительная-практика/Этап-2/Отчет2Этап.md",
+    "possible pallets.md",
+    "Ознакомительная-практика/Этап-2/Структура.md",
     "Group 1.md",
     "Main.md",
-    "Ознакомительная-практика/Этап-2/Отчет2Этап.md",
-    "Ознакомительная-практика/Этап-2/Структура.md",
     "Ознакомительная-практика/Files/ТранскрипцияЗащиты1Этапа.md",
     "Ознакомительная-практика/Files/МУ_по_заданию_ознакомительной_практики.pdf",
     "Ознакомительная-практика/Этап-1/Отчет1Этап.md",
@@ -238,7 +243,6 @@
     "Ознакомительная практика/UX-анализ/Parts/Аналоги/Навигация/Dribbble.md",
     "Ознакомительная практика/UX-анализ/Parts/Аналоги/Навигация/Behance.md",
     "Ознакомительная практика/UX-анализ/Parts/Аналоги/Навигация/Artstation.md",
-    "Ознакомительная практика/UX-анализ/Parts/Аналоги/Дизайн/HSE University Art And Design.md",
     "Ознакомительная практика/UX-анализ/Parts/Аналоги/Функции",
     "Ознакомительная практика/UX-анализ/Parts/Аналоги/Структура",
     "Ознакомительная практика/UX-анализ/Parts/Аналоги/Навигация",
